@@ -1,0 +1,22 @@
+Triggers senario based QA
+
+https://www.sfdcamplified.com/2020/10/triggerscenarios.html
+
+https://learnfrenzy.com/blog/trigger-scenario-based-questions-in-salesforce
+
+https://medium.com/@saurabh.samirs/trigger-scenario-based-questions-in-salesforce-b1d6e8d171dd
+
+https://www.mygreatlearning.com/blog/salesforce-interview-questions/
+
+https://tekslate.com/15-sample-triggers-different-scenarios
+
+https://www.sfdckid.com/2019/07/salesforce-trigger-scenarios-simplified.html
+
+https://mindmajix.com/trigger-scenarios-in-salesforce
+
+https://www.salesforcetutorial.com/trigger-scenarios-in-salesforce/
+
+https://www.crsinfosolutions.com/155-salesforce-interview-questions-with-answers-latest/?gclid=CjwKCAjwmqKJBhAWEiwAMvGt6BDaAEJenvzASEBu6TIjJqHbwv6yqftpEBwB2tqfaowF632cr5cc6BoCrMQQAvD_BwE
+
+https://www.sfdcpanther.com/how-to-master-apex-triggers-apex-trigger-scenarios/
+
